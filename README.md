@@ -183,7 +183,7 @@ Computer Science & Engineering | Data Science
 
 **Aspiring Data Analyst**
 
-`SQL` • `MySQL` • `Excel` • `Python` • `Pandas` • `Power BI`
+`SQL` • `MySQL` • `Excel` • `Python` • `Pandas` • `Tableau`
 
 ---
 
